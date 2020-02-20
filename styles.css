@@ -1,0 +1,12 @@
+.header {
+  text-align: center;
+}
+
+.image {
+  margin: auto;
+  display: block;
+}
+
+.content {
+  margin: 0 200px;
+}
